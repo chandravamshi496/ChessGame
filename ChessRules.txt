@@ -1,0 +1,97 @@
+Chess Game Rules
+
+	This is'nt any ordinary chess game that you may have seen before. In this chess game there are two players, Symbols and Characters. The Chess pieces in the Symbols team are represented as:
+
+		# - KING
+		$ - QUEEN
+		() - BISHOP
+		% - KNIGHT
+		[ - ROOK
+		* - PAWN
+The chess pieces in the Characters team are represented as:
+
+		K - KING
+		Q - QUEEN
+		B - BISHOP
+		H - KNIGHT
+		R - ROOK
+		p- PAWN
+	The player has to remember all these representations of their respective chess pieces while playing the game. And even more challenging is the part where the player has to remember the positions of each chess piece. For Example:
+
+		[   %   (   $  #   (   %   [ 
+		*   *   *   *  *  *   *    *
+		.     .    .    .   .   .    .    . 
+		.     .    .    .   .   .    .    . 
+		.     .    .    .   .   .    .    . 
+		.     .    .    .   .   .    .    . 
+		p    p   p   p  p  p   p  p 
+		R   H   B  Q  K B   H  R 
+	In the above example, the position of the King of the Characters will be (7,4) (The positioning starts from 0). So, the player has to enter the position of the piece he/she wants to move and the final position of the piece. This Chess requires strong memory power. Sounds challenging enough?
+	Below are the rules of any normal chess game:
+
+Aim of the game 
+The object of the game is to capture the other player's king. This capture is never actually completed, but once a king is under attack and unable to avoid capture, it is said to be checkmated and the game is over. 
+
+Start of the game 
+The game is started in the position shown below on a chess board consisting of 64 squares in an 8x8 grid. The White player moves first. Then each player takes a single turn. In fact, a player must move in turn. In other words a move cannot be skipped. 
+
+ 
+
+Playing the game 
+A move consists of placing one piece on a different square, following the rules of movement for that piece. 
+A player can take an opponent's piece by moving one of his or her own pieces to the square that contains an opponent's piece. The opponent's piece is removed from the board and is out of play for the rest of the game.	
+
+Check 
+If a King is threatened with capture, but has a means to escape, then it is said to be in check. A King cannot move into check, and if in check must move out of check immediately. There are three ways you may move out of check:
+Capture the checking piece
+Block the line of attack by placing one of your own pieces between the checking piece and the King. (Of course, a Knight cannot be blocked.)
+Move the King away from check.
+Checkmate 
+The primary objective in chess is to checkmate your opponent's King. When a King cannot avoid capture then it is checkmated and the game is immediately over. 
+
+Stalemate 
+The game is drawn when the player to move has no legal move and his king is not in check. The game is said to end in 'stalemate'. This immediately ends the game. 
+
+Time control 
+A regular chess clock is used to limit the length of a game. These clocks count the time that each player separately takes for making his own moves. The rules are very simple, if you run out of time, you lose the game, and thus must budget your time. 
+
+Special moves 
+
+Castling 
+If the necessary conditions are met, a king and rook can move simultaneously in a castling move. The conditions are as follows:
+The king that makes the castling move has not yet moved in the game.
+The rook that makes the castling move has not yet moved in the game.
+The king is not in check
+The king does not move over a square that could be attacked by an enemy piece; i.e., when castling, there may be no enemy piece that can move (diagonally, in the case of pawns) to a square that will be passed over by the king. In short, you cannot castle through check.
+The king does not move to a square that could be attacked by an enemy piece; i.e., you may not end the castling with the king in check.
+All squares between the rook and king before the castling move must be empty.
+When castling, the king moves two squares toward the rook, and the rook moves over the king to the next square; i.e., white's king on e1 and rook on a1 move to: king c1, rook d1 (long castling); white's king on e1 and rook on h1 move to: king g1, rook f1 (short castling). The move is similar for black. 
+
+En Passant 
+A pawn, attacking a square crossed by an opponent's pawn which has [just] been advanced two squares in one move from its original square, may capture this opponent's pawn as though the latter had been moved only one square. This capture may only be made in [immediate] reply to such an advance, and is called an "en passant" capture. 
+
+Pawn promotion 
+On reaching the last rank, a pawn must immediately be exchanged, as part of the same move, for [either] a queen, a rook, a bishop, or a knight, of the same colour as the pawn, at the player's choice and without taking into account the other pieces still remaining on the chessboard. The effect of the promoted piece is immediate and permanent! 
+
+End of the game 
+
+Winning	
+The game is won by the player
+who has checkmated his opponent's king.
+whose opponent declares he resigns.
+Draw 
+The game is drawn when the king of the player who has the move is not in check, and this player cannot make any legal move. The player's king is then said to be "stalemated". This immediately ends the game. 
+The game is drawn upon agreement between the two players. 
+The game is drawn when one of the following endings arises:
+king against king;
+king against king with only bishop or knight;
+king and bishop against king and bishop, with both bishops on diagonals of the same colour.
+
+The player to move can claim a draw if
+the same position with the same player to move is repeated three times in the game
+there are have been 50 consecutive moves of white and of black without
+any piece taken
+any pawn move
+Losing 
+The game is lost by a player who has not completed the prescribed number of moves in the allotted time, unless his opponent has only the king remaining, in which case the game is drawn. 
+ 
